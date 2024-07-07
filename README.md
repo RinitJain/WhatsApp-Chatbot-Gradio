@@ -3,7 +3,7 @@ A chatbot powered by Google Gemini 1.5 Pro.<br>
 It answers all your questions regarding the famous ***WhatsApp Messanger App***!<br>
 *Try it Out!*
 
-You can access it here: https://whatsapp-chatbot-gradio.onrender.com/bot/
+You can access it here: https://whatsapp-chatbot-gradio.onrender.com
 
 Here, I have used Gradio which is used for demo testing of any ML/AI Project.
 This website currently supports only the basic funcitons.
