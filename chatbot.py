@@ -107,4 +107,4 @@ with gr.Blocks() as iFace:
 
 if __name__ == "__main__":
     iFace.queue()
-    iFace.launch(title="WhatsApp Chatbot")
+    iFace.launch(title="WhatsApp Chatbot", server_name="0.0.0.0", server_port=7860, share=True)
